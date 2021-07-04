@@ -1,6 +1,6 @@
  
 # Welcome to Kaun Banega Crorepati
-
+![kbc-cli-project-2](https://socialify.git.ci/aayushi221/kbc-cli-project-2/image?language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 ## About
   Welcome this is the next step in the process, prerequisites for this task are a basic understanding of python to solve this and then of git.
 
@@ -64,7 +64,9 @@
 
   ### Pushing your code
     Once you have solved it in your local, push it to a private repo and message us that you have solved it, Also don't forget to add usernames: [“vedansh”, “prachipathrayan”] as collaborators
+```
+ ### Tech Stack 📂
 
-  
+ ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 
